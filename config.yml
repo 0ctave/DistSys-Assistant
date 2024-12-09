@@ -1,5 +1,5 @@
 DATA_PATH: 'data/'
-LLM: 'starling-lm:7b-alpha-q5_K_M'
+LLM: 'llama3.2'
 EMBEDDINGS: 'sentence-transformers/all-mpnet-base-v2'
 WEAVIATE_URL: 'http://localhost:8080'
 INDEX_NAME: 'Tyrell'

@@ -1,6 +1,10 @@
-llama-index==0.9.13
-langchain==0.0.345
-sentence-transformers
-weaviate-client
-pypdf
+PyYAML
 python-box
+langchain
+langchain-core
+pydantic
+weaviate-client
+langchain-community
+langchain_ollama
+langchain_weaviate
+langgraph
